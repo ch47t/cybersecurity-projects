@@ -1,4 +1,4 @@
-# Installing 
+# Installing Pip
 ##							 Windows
 ### Download get-pip.py:
 1. Open your web browser and download the get-pip.py script from [this link](https://bootstrap.pypa.io/get-pip.py)
@@ -11,9 +11,9 @@
 ## 							macOS/Linux
 1. Using curl to download and install pip:
 2. Open your terminal and run:
-	> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-	> python get-pip.py
-
+	> (curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py)
+	> "python get-pip.py"
+---
 # Installing pycryptodome using pip
 Once pip is installed, you can use it to install pycryptodome.
 1. Open Terminal or Command Prompt:
