@@ -1,15 +1,25 @@
-# cybersecurity-projects
-In this folder you will find more than 20 cybersecurity projects, ranging from beginner-friendly to advanced, all designed to enhance your understanding and skillset in this vital field.
-I invite you to visit my LinkedIn account :
-  [Visit LinkeIn](https://www.linkedin.com/in/chahat-abdennour)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 1. Simple Cryptography:
+# Cybersecurity Projects
+
+Welcome to the cybersecurity projects repository, featuring over 20 projects designed to enhance your skills in this critical field, suitable for beginners to advanced learners.
+
+Explore my LinkedIn profile for more information: [Visit LinkedIn](https://www.linkedin.com/in/chahat-abdennour)
+
+---
+
+## Project 1: Simple Cryptography
+
 ![Image Alt Text](1.png)
-**Comprehensive Encryption Tool** : This script offers a user-friendly way to encrypt, decrypt, and hash text using a variety of algorithms.
-**Multiple Ciphers** : Includes Caesar cipher and substitution cipher implementations for hands-on learning.
-**Hashing Functions** : Hash data using MD5, SHA-256, SHA-3 and more algorithms to verify its integrity.
-**Intuitive Interface** : Navigate through menus to select operations, generate keys, and choose hashing algorithms.
-**Enhanced User Experience** : Enjoy visually appealing ASCII art banners, color-coded text output, and terminal clearing for a polished interface.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#                                                                       **Projects are being publishe**
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- **Comprehensive Encryption Tool**: This script provides a user-friendly interface for encrypting, decrypting, and hashing text using various algorithms.
+- **Multiple Ciphers**: Includes implementations of Caesar cipher and substitution cipher for practical learning.
+- **Hashing Functions**: Utilizes MD5, SHA-256, SHA-3, and more algorithms for data integrity verification.
+- **Intuitive Interface**: Navigate through menus to perform operations, generate keys, and select hashing algorithms.
+- **Enhanced User Experience**: Features visually appealing ASCII art banners, color-coded text output, and terminal clearing for a polished interface.
+
+---
+
+# Projects Currently in Publication
+
+Stay tuned for updates on upcoming projects.
+
+---
