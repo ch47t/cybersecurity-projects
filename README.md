@@ -8,7 +8,7 @@ Explore my LinkedIn profile for more information: [Visit LinkedIn](https://www.l
 
 ## Project 1: Simple Cryptography
 
-![Image Alt Text](1.png)
+![Image Alt Text](1.jpg)
 
 - **Comprehensive Encryption Tool**: This script provides a user-friendly interface for encrypting, decrypting, and hashing text using various algorithms.
 - **Multiple Ciphers**: Includes implementations of Caesar cipher and substitution cipher for practical learning.
