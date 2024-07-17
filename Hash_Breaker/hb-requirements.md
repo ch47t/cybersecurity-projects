@@ -36,4 +36,4 @@ Possible types of this hash are :
 [*] Crack operation completed in 0.03 seconds
 ```
 ## Author
-  ** CHAHAT Abdennour**
+  ** CHAHAT Abdennour **
