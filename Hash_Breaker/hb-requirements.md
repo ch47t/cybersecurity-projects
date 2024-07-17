@@ -22,3 +22,18 @@ To run the password cracker script, ensure your environment meets the following 
 
 ```sh
 python3 password_cracker.py "hashValue" -w path/to/passwords/list.txt
+```
+
+## Example Output
+```sh
+Possible types of this hash are : 
+     + : sha256
+
+[*] Crack operation start ...
+    + : sha256
+	  Password found :	biker50 
+
+[*] Crack operation completed in 0.03 seconds
+```
+## Author
+  ** CHAHAT Abdennour**
