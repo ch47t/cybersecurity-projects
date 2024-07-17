@@ -25,10 +25,10 @@ Explore my LinkedIn profile for more information: [Visit LinkedIn](https://www.l
 ### HashBreaker
 HashBreaker is a powerful and efficient script designed to crack hash values using a specified wordlist. This script supports a wide range of hash types and is capable of identifying and cracking them in a user-friendly manner.
 
-**Multiple Hash Type Support**: Automatically detects and supports various hash types, including MD5, SHA1, SHA224, SHA256, SHA384, SHA512, and more.
-**User-Friendly Output**: Provides colored output for better readability and user experience.
-**Performance Tracking**: Measures and displays the time taken to crack each hash.
-**Cross-Platform Compatibility**: Works on both Windows and Unix-based systems (e.g., Linux, macOS).
+- **Multiple Hash Type Support**: Automatically detects and supports various hash types, including MD5, SHA1, SHA224, SHA256, SHA384, SHA512, and more.
+- **User-Friendly Output**: Provides colored output for better readability and user experience.
+- **Performance Tracking**: Measures and displays the time taken to crack each hash.
+- **Cross-Platform Compatibility**: Works on both Windows and Unix-based systems (e.g., Linux, macOS).
 
 ---
 
