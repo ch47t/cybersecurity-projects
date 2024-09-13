@@ -32,6 +32,22 @@ HashBreaker is a powerful and efficient script designed to crack hash values usi
 
 ---
 
+## Project 3: Wifi Security Analysis
+
+![Image Alt Text](hashBreaker.jpg)
+
+### WiFiVulnScan
+The project is a WiFi Security Analysis Tool that helps users identify and analyze wireless networks for potential security vulnerabilities.
+
+- **Wireless Interface Selection**: Lists available wireless interfaces for the user to choose from.
+- **Monitor Mode Activation**: Enables monitor mode on the selected interface to capture network traffic.
+- **WiFi Network Scanning**: Displays available WiFi networks with SSID and BSSID.
+- **Handshake Capture**: Captures WPA/WPA2 handshake packets from the selected network.
+- **Password Cracking**: Attempts to crack the network password using a wordlist.
+- **Security Report Generation**: Provides a report on vulnerabilities and suggested mitigations for the selected network.
+- **User-friendly GUI**: Simplifies interaction with the tool through a Tkinter-based interface.
+
+---
 # Projects Currently in Publication
 
 Stay tuned for updates on upcoming projects.
