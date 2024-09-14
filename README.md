@@ -48,6 +48,19 @@ The project is a WiFi Security Analysis Tool that helps users identify and analy
 - **User-friendly GUI**: Simplifies interaction with the tool through a Tkinter-based interface.
 
 ---
+## Project 4: Network Vulnerability Scanning
+
+![Image Alt Text](simpleCryptography.jpg)
+
+### Network security scanner
+The Network Security Scanner is a Python tool that scans a target host for open ports, identifies services running on those ports, and attempts to crack login credentials for SSH and FTP services using wordlists. It provides a comprehensive overview of a target system’s potential vulnerabilities by identifying accessible services and attempting basic brute force attacks.
+
+- **Port Scanning**: Scans individual ports, a range of ports, or the top 1000 most commonly used ports.
+- **Service Detection**: Attempts to identify the service running on open ports.
+- **Brute Force**: Uses wordlists to attempt cracking SSH and FTP credentials on open ports.
+- **Colored Output**: Color-coded terminal output for enhanced readability.
+
+---
 # Projects Currently in Publication
 
 Stay tuned for updates on upcoming projects.
