@@ -34,7 +34,7 @@ HashBreaker is a powerful and efficient script designed to crack hash values usi
 
 ## Project 3: Wifi Security Analysis
 
-![Image Alt Text](hashBreaker.jpg)
+![Image Alt Text](wifiVulnScan.jpg)
 
 ### WiFiVulnScan
 The project is a WiFi Security Analysis Tool that helps users identify and analyze wireless networks for potential security vulnerabilities.
